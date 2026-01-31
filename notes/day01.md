@@ -1,2 +1,6 @@
 # Day01
-今天练了 print / input
+title() 首字母大写
+upper() 全部大写
+lower() 全部小写
+name="ada lovelace"
+print(name.title())
